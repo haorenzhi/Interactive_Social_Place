@@ -1,0 +1,17 @@
+#scene {
+	position: absolute;
+	left:  0px;
+	top:  0px;
+	width:  100%;
+	height:  100%;
+}
+
+#overlay {
+	position: absolute;
+	left:  0px;
+	top:  0px;
+	width:  100%;
+	height:  100%;
+	background-color:  hsla(150, 100%, 90%, .3);
+	pointer-events: none;
+}
